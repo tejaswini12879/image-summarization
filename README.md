@@ -1,6 +1,4 @@
-# Project-lmtg
-
-Computer Vision Project Summarizing Visual Data Using Bidirectional Similarity
+# Computer Vision Project Summarizing Visual Data Using Bidirectional Similarity
 
 Includes a bidirectional similarity measure between two images/videos of different sizes.
 
